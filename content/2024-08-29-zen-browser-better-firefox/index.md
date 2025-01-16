@@ -1,10 +1,10 @@
 ---
 title: "Zen browser is making me DITCH Microsoft Edge"
-date: "2024-08-29"
 summary: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is to Debian. It's new browser that uses the engine of Firefox to give us a new browsing experience. Their homepage states: "Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.""
 description: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is to Debian. It's new browser that uses the engine of Firefox to give us a new browsing experience. Their homepage states: "Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.""
 categories: ["Software", "Releases"]
 tags: ["firefox", "open source", "web browser"]
+date: "2024-08-29"
 draft: false
 showauthor: false
 authors:
