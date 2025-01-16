@@ -1,9 +1,16 @@
 ---
 title: "Zen browser is making me DITCH Microsoft Edge"
 date: "2024-08-29"
-categories: 
-  - "software"
-coverImage: "zen.jpg"
+summary: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is to Debian. It's new browser that uses the engine of Firefox to give us a new browsing experience. Their homepage states: "Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.""
+description: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is to Debian. It's new browser that uses the engine of Firefox to give us a new browsing experience. Their homepage states: "Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.""
+categories: ["Software", "Releases"]
+tags: ["firefox", "open source", "web browser"]
+# externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
+draft: false
+showauthor: false
+authors:
+  - Brandon Hopkins
+coverImage: "featured.jpg"
 ---
 
 For over a year I have been using Microsoft Edge. In [my testing](https://techhut.tv/microsoft-edge-might-win-on-linux/) it is the most performant browser ranked against many others and with the integration of ChatGPT and many other helpful features I just stuck with the Windows default. A few weeks ago, I started using Firefox off and on, but it just doesn't feel like the best workspace to be in. I love the Firefox engine, but the user interface just isn't it for me. Then I stumbled on [this video by Theo](https://www.youtube.com/watch?v=tKM2N4TQHQY) that introduced me to Zen.
