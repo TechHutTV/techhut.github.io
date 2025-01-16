@@ -2,21 +2,21 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "TechHut"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+#   name = "Brandon Hopkins"
+#   email = "brandon@techhut.tv"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
