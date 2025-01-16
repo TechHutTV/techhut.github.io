@@ -5,7 +5,6 @@ summary: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is 
 description: "You can think of Zen as what Edge is to Chrome or even what Ubuntu is to Debian. It's new browser that uses the engine of Firefox to give us a new browsing experience. Their homepage states: "Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data.""
 categories: ["Software", "Releases"]
 tags: ["firefox", "open source", "web browser"]
-# externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 draft: false
 showauthor: false
 authors:
