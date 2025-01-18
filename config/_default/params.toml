@@ -95,8 +95,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTableOfContents = false
   showCards = false
   orderByWeight = false
-  groupByYear = true
-  cardView = true
+  groupByYear = false
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

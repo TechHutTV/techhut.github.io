@@ -2,7 +2,7 @@
 title: "5 Things You MUST DO after Installing Pop!_OS"
 date: "2021-11-13"
 categories: 
-  - "linux-distributions"
+  - "Guides"
 ---
 
 With the release of Pop!\_OS COSMIC our last article review some of the best things to do after install is now out of date. Thus here is our updated list reviewing 5 things everyone should consider doing after installing Pop!\_OS. Important tweaks, tips, and updates are essential to making sure you have a positive experience with this new Ubuntu based distribution of Linux.
